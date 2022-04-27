@@ -25,7 +25,7 @@ class Different_commissionKtTest {
             typesOfPayments = card,
             amountOfPreviousTransfers = amount)
 
-        assertEquals(3500, result)
+        assertEquals(3400, result)
 
 
     }
